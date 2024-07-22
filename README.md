@@ -15,13 +15,18 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mohmed-saleh1&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375" alt="Muhamed saleh"/>
 
 - A passionate Front-end developer
-- Comptetive Programmer
+- &emsp; Comptetive Programmer
 - Problem solver
 - Hard worker
-- longlife learner
+-&emsp; longlife learner
 - book worm
+-  📧 &emsp; Reach me anytime:devahmedanwer@gmail.com<br/><br/>
+ 💬 &emsp; Ask me about anything [here](https://github.com/Ahmedanwersaber)
+
+
+
 - I’m currently open for an Intern or a new job opportunity, this is [My Resume](https://drive.google.com/file/d/1uoWjLME98Ov9SOUwx_Myt3K57oPl8gJx/view?usp=drive_link)
-  
+  <br/>
 <br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
@@ -63,21 +68,9 @@
 <br />
 
 <!-- About Section -->
- # About me
+
  
-<p>
- <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
-  
- ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
- ❤️ &emsp; Love to writing code and learning new features<br/><br/>
- 📧 &emsp; Reach me anytime:devahmedanwer@gmail.com<br/><br/>
- 💬 &emsp; Ask me about anything [here](https://github.com/Ahmedanwersaber)
 
-</p>
-
-<br/>
-<br/>
-<br/>
 
 ## Use To Code
 

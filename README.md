@@ -1,54 +1,44 @@
-### Hi there 👋
+<h1 align="center"><b>Hi , I'm Muhamed Saleh </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<!--  -->A
+<picture> <img align="right" src="https://github.com/0xabdulkhalid/0xabdulkhalid/raw/main/assets/mdImages/programming.svg" width = 210 ></picture>
 
-<!--
-**Ahmedanwersaber/Ahmedanwersaber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<!--
-<h2 align="center">
-  Welcome to Al Siam World!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h2>
--->
-
-<!--
+<!-- animated text -->
 <p align="center">
-  <a href="https://github.com/alsiam"><img src="https://readme-typing-svg.herokuapp.com/?lines=Self%20Taught%20Programmer;Front%20End%20Developer;1.5%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hi+every+one..&hearts;++;I'm+Muhamed-Saleh;Software+Engineer,Back-End;22+years+Old;From+Egypt;Love+to+learn+new+things..<3"></a>
 </p>
 
- -->
+	
+## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
 
+<br>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mohmed-saleh1&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375" alt="Muhamed saleh"/>
+
+- A passionate Back-end developer
+- Comptetive Programmer
+- Problem solver
+- Hard worker
+- longlife learner
+- book worm
+- I’m currently open for an Intern or a new job opportunity, this is [My Resume](https://drive.google.com/file/d/1qRqyjZW5NYqog_N0jwsa1lTSlmjzcBDL/view?usp=sharing)
+  
+<br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 
-
-<!-- Intro  -->
-<h3 align="center">
-        <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://ahmedanwersaber.github.io/my_new_prtofolio/">Ahmed Anwer</a></b>
-        </samp>
-</h3>
+ <!-- ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b> -->
 
 
-<p align="center"> 
-  <samp>
-    <a href="[https://www.google.com/search?q=Saif+Al+Siam](https://www.linkedin.com/in/ahmed-anwer-saber-428919218/)">「 LinkedIn 」</a>
-    <br>
-    「 I am a full stack web appplication developer (PHP) 」
-    <br>
-    <br>
-  </samp>
-</p>
+<div align="center">
+	
+  <!-- image one 
+  <img src="https://github-readme-stats.vercel.app/api?username=Mohmed-saleh1&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/> -->
+  <!-- image two -->
+  
+
+</a>
+</div>
 
 <p align="center">
  <a href="https://ahmedanwersaber.github.io/my_new_prtofolio/" target="blank">

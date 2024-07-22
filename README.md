@@ -4,7 +4,7 @@
 
 <!-- animated text -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hi+every+one..&hearts;++;I'm+Muhamed-Saleh;Software+Engineer,Back-End;22+years+Old;From+Egypt;Love+to+learn+new+things..<3"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hi+every+one..&hearts;++;I'm+Ahmed-Anwer;Software+Engineer,Front-End;22+years+Old;From+Egypt;Love+to+learn+new+things..<3"></a>
 </p>
 
 	
@@ -15,16 +15,12 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mohmed-saleh1&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375" alt="Muhamed saleh"/>
 
 - A passionate Front-end developer
-- &emsp; Comptetive Programmer
+- Comptetive Programmer
 - Problem solver
 - Hard worker
--&emsp; longlife learner
+- longlife learner
 - book worm
--  📧 &emsp; Reach me anytime:devahmedanwer@gmail.com<br/><br/>
- 💬 &emsp; Ask me about anything [here](https://github.com/Ahmedanwersaber)
-
-
-
+- 📧 &emsp; Reach me anytime:devahmedanwer@gmail.com<br/><br/>
 - I’m currently open for an Intern or a new job opportunity, this is [My Resume](https://drive.google.com/file/d/1uoWjLME98Ov9SOUwx_Myt3K57oPl8gJx/view?usp=drive_link)
   <br/>
 <br>

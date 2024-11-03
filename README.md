@@ -1,6 +1,6 @@
 <h1 align="center"><b>Hi , I'm  Ahmed Anwer  </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->A
-<picture> <img align="right" src="https://github.com/0xabdulkhalid/0xabdulkhalid/raw/main/assets/mdImages/programming.svg" width = 210 ></picture>
+<picture> <img align="right" src="https://camo.githubusercontent.com/aec808b9a398ba6df6b66d54706fd2653aaa9b1282c7513191d7d4dddfd78384/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f76312e59326c6b505463354d4749334e6a4578596a68316132357661475634625749315a6a41315a584131596e706b5a446c78614463316557686964485233655763355a6d707464795a6c634431324d563970626e526c636d35686246396e61575a66596e6c666157516d5933513963772f7a68595356436972524565495a744f4e43492f67697068792e676966" width = 210 ></picture>
 
 <!-- animated text -->
 <p align="center">
@@ -8,11 +8,11 @@
 </p>
 
 	
-## <picture><img src = "https://camo.githubusercontent.com/aec808b9a398ba6df6b66d54706fd2653aaa9b1282c7513191d7d4dddfd78384/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f76312e59326c6b505463354d4749334e6a4578596a68316132357661475634625749315a6a41315a584131596e706b5a446c78614463316557686964485233655763355a6d707464795a6c634431324d563970626e526c636d35686246396e61575a66596e6c666157516d5933513963772f7a68595356436972524565495a744f4e43492f67697068792e676966" width = 50px></picture> **About me**
+## <picture><img src = "#" width = 50px></picture> **About me**
 
 
 <br>
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mohmed-saleh1&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375" alt="Muhamed saleh"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ahmed-anwer&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375" alt="Ahmed Anwer"/>
 
 - A passionate Front-end developer
 - Comptetive Programmer

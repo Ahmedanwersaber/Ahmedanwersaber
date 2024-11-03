@@ -8,7 +8,7 @@
 </p>
 
 	
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+## <picture><img src = "[https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif](https://camo.githubusercontent.com/aec808b9a398ba6df6b66d54706fd2653aaa9b1282c7513191d7d4dddfd78384/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f76312e59326c6b505463354d4749334e6a4578596a68316132357661475634625749315a6a41315a584131596e706b5a446c78614463316557686964485233655763355a6d707464795a6c634431324d563970626e526c636d35686246396e61575a66596e6c666157516d5933513963772f7a68595356436972524565495a744f4e43492f67697068792e676966)" width = 50px></picture> **About me**
 
 
 <br>
